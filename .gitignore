@@ -1,0 +1,2 @@
+# evitar subir archivos ejecutables
+exec*
