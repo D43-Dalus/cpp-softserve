@@ -1,2 +1,4 @@
 # evitar subir archivos ejecutables
 exec*
+*/build/*
+.history/
